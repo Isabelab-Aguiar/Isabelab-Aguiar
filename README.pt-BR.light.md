@@ -12,7 +12,6 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isabelabaguiar.contato@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Isabelab-Aguiar)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
 
@@ -44,9 +43,6 @@ const isabela: Developer = {
 
 Atuo em todo o ciclo de desenvolvimento, desde a concepção técnica até a entrega, colaborando com times para transformar necessidades reais em soluções digitais consistentes. Gosto de trabalhar com arquiteturas bem definidas, tecnologias atuais e práticas que facilitam a manutenção, evolução e escalabilidade dos sistemas.
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
 
 ## 💻 Stack Tecnológica
 
@@ -69,9 +65,6 @@ Atuo em todo o ciclo de desenvolvimento, desde a concepção técnica até a ent
 
 </div>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
 
 ## 🎯 Expertise
 
@@ -124,9 +117,6 @@ const arquitetura = {
 </tr>
 </table>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
 
 ## 🌟 Projetos em Destaque
 
@@ -204,22 +194,6 @@ const arquitetura = {
 
 </div>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
-## 📊 Análise GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Isabelab-Aguiar&show_icons=true&theme=default&hide_border=true&title_color=667eea&icon_color=764ba2&text_color=333&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isabelab-Aguiar&layout=compact&theme=default&hide_border=true&title_color=667eea&text_color=333&langs_count=8"/>
-
-</div>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
 
 ## 💡 O Que Me Diferencia
 
@@ -270,9 +244,6 @@ const meusDiferenciais: Diferenciais = {
 
 </div>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
 
 ## 🌱 Atualmente
 
@@ -311,9 +282,6 @@ const meusDiferenciais: Diferenciais = {
 </tr>
 </table>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
 
 ## 🤝 Vamos Conversar
 
@@ -349,7 +317,6 @@ const meusDiferenciais: Diferenciais = {
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Isabelab-Aguiar&color=667eea&style=for-the-badge&label=Visualizações)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer&text=Obrigada%20pela%20visita!&fontSize=40&fontAlignY=65&animation=twinkling&fontColor=fff" width="100%"/>
 

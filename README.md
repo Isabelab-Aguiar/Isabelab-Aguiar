@@ -12,7 +12,6 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isabelabaguiar.contato@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Isabelab-Aguiar)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
 
@@ -44,9 +43,6 @@ const isabela: Developer = {
 
 I work across the entire development cycle, from technical conception to delivery, collaborating with teams to transform real needs into consistent digital solutions. I enjoy working with well-defined architectures, current technologies, and practices that facilitate system maintenance, evolution, and scalability.
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
 
 ## 💻 Tech Stack
 
@@ -69,9 +65,6 @@ I work across the entire development cycle, from technical conception to deliver
 
 </div>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
 
 ## 🎯 Expertise
 
@@ -124,9 +117,6 @@ const architecture = {
 </tr>
 </table>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
 
 ## 🌟 Featured Projects
 
@@ -204,22 +194,6 @@ const architecture = {
 
 </div>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Isabelab-Aguiar&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isabelab-Aguiar&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF&langs_count=8"/>
-
-</div>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
 
 ## 💡 What Sets Me Apart
 
@@ -270,9 +244,6 @@ const myDifferentiators: Differentiators = {
 
 </div>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
 
 ## 🌱 Currently
 
@@ -311,9 +282,6 @@ const myDifferentiators: Differentiators = {
 </tr>
 </table>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
 
 ## 🤝 Let's Connect
 
@@ -349,7 +317,6 @@ const myDifferentiators: Differentiators = {
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Isabelab-Aguiar&color=6C63FF&style=for-the-badge&label=Profile+Views)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontAlignY=65&animation=twinkling&fontColor=gradient" width="100%"/>
 
