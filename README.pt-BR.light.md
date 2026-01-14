@@ -7,9 +7,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=667eea&center=true&vCenter=true&random=false&width=800&lines=Desenvolvedora+Full+Stack+%F0%9F%9A%80;React+%7C+Node.js+%7C+TypeScript;Construindo+Soluções+Escaláveis;Focada+em+UX+e+Qualidade;Visão+de+Produto+%2B+Engenharia)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-usuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isabelabotelhoaguiar/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/isabelabotelhoaguiar/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://seu-portfolio.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isabelabaguiar.contato@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Isabelab-Aguiar)
 
@@ -136,18 +135,13 @@ const arquitetura = {
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Nome do Projeto 1</h3>
+<h3 align="center">Catalan Health Platform</h3>
 <div align="center">
-<a href="link-do-repo" target="_blank">
-<img src="https://via.placeholder.com/400x200/FFFFFF/667eea?text=Screenshot+do+Projeto" width="400" alt="Projeto 1"/>
-</a>
-<br>
-<br>
 <p>
-<a href="link-do-repo" target="_blank">
+<a href="repo-link" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-667eea?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="link-demo" target="_blank">
+<a href="https://psf-saojose-web.vercel.app/" target="_blank">
 <img src="https://img.shields.io/badge/DEMO-764ba2?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 </p>
@@ -157,41 +151,31 @@ const arquitetura = {
 </td>
 
 <td width="50%">
-<h3 align="center">Nome do Projeto 2</h3>
+<h3 align="center">Aparatus</h3>
 <div align="center">
-<a href="link-do-repo" target="_blank">
-<img src="https://via.placeholder.com/400x200/FFFFFF/667eea?text=Screenshot+do+Projeto" width="400" alt="Projeto 2"/>
-</a>
-<br>
-<br>
 <p>
-<a href="link-do-repo" target="_blank">
+<a href="repo-link" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-667eea?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="link-demo" target="_blank">
+<a href="demo-link" target="_blank">
 <img src="https://img.shields.io/badge/DEMO-764ba2?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 </p>
 <p><strong>Next.js, Node.js, PostgreSQL</strong></p>
-<p>Descrição breve do projeto destacando principais funcionalidades e tecnologias utilizadas.</p>
+<p>Aplicação full-stack com autenticação Google OAuth, assistente de chat com IA e integração de pagamentos Stripe.</p>
 </div>
 </td>
 </tr>
 
 <tr>
 <td width="50%">
-<h3 align="center">Nome do Projeto 3</h3>
+<h3 align="center">Project Name 3</h3>
 <div align="center">
-<a href="link-do-repo" target="_blank">
-<img src="https://via.placeholder.com/400x200/FFFFFF/667eea?text=Screenshot+do+Projeto" width="400" alt="Projeto 3"/>
-</a>
-<br>
-<br>
 <p>
-<a href="link-do-repo" target="_blank">
+<a href="repo-link" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-667eea?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="link-demo" target="_blank">
+<a href="demo-link" target="_blank">
 <img src="https://img.shields.io/badge/DEMO-764ba2?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 </p>
@@ -201,18 +185,13 @@ const arquitetura = {
 </td>
 
 <td width="50%">
-<h3 align="center">Nome do Projeto 4</h3>
+<h3 align="center">Project Name 4</h3>
 <div align="center">
-<a href="link-do-repo" target="_blank">
-<img src="https://via.placeholder.com/400x200/FFFFFF/667eea?text=Screenshot+do+Projeto" width="400" alt="Projeto 4"/>
-</a>
-<br>
-<br>
 <p>
-<a href="link-do-repo" target="_blank">
+<a href="repo-link" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-667eea?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="link-demo" target="_blank">
+<a href="demo-link" target="_blank">
 <img src="https://img.shields.io/badge/DEMO-764ba2?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 </p>
@@ -235,30 +214,6 @@ const arquitetura = {
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Isabelab-Aguiar&show_icons=true&theme=default&hide_border=true&title_color=667eea&icon_color=764ba2&text_color=333&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isabelab-Aguiar&layout=compact&theme=default&hide_border=true&title_color=667eea&text_color=333&langs_count=8"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Isabelab-Aguiar&theme=default&hide_border=true&stroke=667eea&ring=764ba2&fire=667eea&currStreakLabel=333" alt="GitHub Streak"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Isabelab-Aguiar&theme=github-light&hide_border=true&area=true&color=667eea&line=764ba2&point=667eea" width="100%"/>
-
-</div>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
-## 🏆 Troféus GitHub
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Isabelab-Aguiar&theme=flat&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15"/>
 
 </div>
 
@@ -368,33 +323,26 @@ const meusDiferenciais: Diferenciais = {
 
 <table>
 <tr>
-<td align="center" width="25%">
-<a href="https://linkedin.com/in/seu-usuario">
+<td align="center" width="33%">
+<a href="https://www.linkedin.com/in/isabelabotelhoaguiar/">
 <img src="https://img.shields.io/badge/LinkedIn-Vamos_Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <br>
 <sub>Networking profissional</sub>
 </td>
-<td align="center" width="25%">
+<td align="center" width="33%">
 <a href="https://www.instagram.com/isabelabotelhoaguiar/">
 <img src="https://img.shields.io/badge/Instagram-Seguir-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 <br>
 <sub>Bastidores</sub>
 </td>
-<td align="center" width="25%">
+<td align="center" width="33%">
 <a href="mailto:isabelabaguiar.contato@gmail.com">
 <img src="https://img.shields.io/badge/Email-Enviar_Mensagem-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <br>
 <sub>Comunicação direta</sub>
-</td>
-<td align="center" width="25%">
-<a href="https://seu-portfolio.com">
-<img src="https://img.shields.io/badge/Portfolio-Visitar_Site-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-<br>
-<sub>Projetos e artigos</sub>
 </td>
 </tr>
 </table>

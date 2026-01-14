@@ -151,13 +151,8 @@ const architecture = {
 </td>
 
 <td width="50%">
-<h3 align="center">Project Name 2</h3>
+<h3 align="center">Aparatus</h3>
 <div align="center">
-<a href="repo-link" target="_blank">
-<img src="https://via.placeholder.com/400x200/0D1117/6C63FF?text=Project+Screenshot" width="400" alt="Project 2"/>
-</a>
-<br>
-<br>
 <p>
 <a href="repo-link" target="_blank">
 <img src="https://img.shields.io/badge/CODE-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
@@ -167,7 +162,7 @@ const architecture = {
 </a>
 </p>
 <p><strong>Next.js, Node.js, PostgreSQL</strong></p>
-<p>Brief project description highlighting main features and technologies used.</p>
+<p>Full-stack application featuring Google OAuth authentication, AI-powered chat assistant, and Stripe payment integration.</p>
 </div>
 </td>
 </tr>
@@ -176,11 +171,6 @@ const architecture = {
 <td width="50%">
 <h3 align="center">Project Name 3</h3>
 <div align="center">
-<a href="repo-link" target="_blank">
-<img src="https://via.placeholder.com/400x200/0D1117/6C63FF?text=Project+Screenshot" width="400" alt="Project 3"/>
-</a>
-<br>
-<br>
 <p>
 <a href="repo-link" target="_blank">
 <img src="https://img.shields.io/badge/CODE-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
@@ -197,11 +187,6 @@ const architecture = {
 <td width="50%">
 <h3 align="center">Project Name 4</h3>
 <div align="center">
-<a href="repo-link" target="_blank">
-<img src="https://via.placeholder.com/400x200/0D1117/6C63FF?text=Project+Screenshot" width="400" alt="Project 4"/>
-</a>
-<br>
-<br>
 <p>
 <a href="repo-link" target="_blank">
 <img src="https://img.shields.io/badge/CODE-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
