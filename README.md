@@ -238,30 +238,6 @@ const architecture = {
 </div>
 
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Isabelab-Aguiar&theme=radical&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" alt="GitHub Streak"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Isabelab-Aguiar&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF" width="100%"/>
-
-</div>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Isabelab-Aguiar&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15"/>
-
-</div>
-
-<div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
