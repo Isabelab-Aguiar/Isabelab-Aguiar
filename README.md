@@ -135,18 +135,13 @@ const architecture = {
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Project Name 1</h3>
+<h3 align="center">Catalan Health Platform</h3>
 <div align="center">
-<a href="repo-link" target="_blank">
-<img src="https://via.placeholder.com/400x200/0D1117/6C63FF?text=Project+Screenshot" width="400" alt="Project 1"/>
-</a>
-<br>
-<br>
 <p>
 <a href="repo-link" target="_blank">
 <img src="https://img.shields.io/badge/CODE-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="demo-link" target="_blank">
+<a href="https://psf-saojose-web.vercel.app/" target="_blank">
 <img src="https://img.shields.io/badge/LIVE-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 </p>
